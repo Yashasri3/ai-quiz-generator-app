@@ -1,0 +1,121 @@
+{
+  "id": 2,
+  "url": "https://en.wikipedia.org/wiki/Marie_Curie",
+  "title": "Marie Curie",
+  "summary": "Marie Skłodowska Curie was a Polish and naturalized-French physicist and chemist who conducted pioneering research on radioactivity. She was the first woman to win a Nobel Prize, the first person to win a Nobel Prize twice, and the only person to win a Nobel Prize in two scientific fields.",
+  "key_entities": {
+    "people": [
+      "Marie Curie",
+      "Pierre Curie",
+      "Henri Becquerel",
+      "Irène Joliot-Curie"
+    ],
+    "organizations": [
+      "University of Paris",
+      "Radium Institute",
+      "Sorbonne",
+      "Nobel Committee"
+    ],
+    "locations": [
+      "Poland",
+      "France",
+      "Paris",
+      "Warsaw"
+    ]
+  },
+  "sections": [
+    "Early life",
+    "Education",
+    "Scientific career",
+    "Discovery of radium and polonium",
+    "Nobel Prizes",
+    "World War I",
+    "Death and legacy",
+    "Awards and honors"
+  ],
+  "quiz": [
+    {
+      "question": "In which two scientific fields did Marie Curie win Nobel Prizes?",
+      "options": [
+        "Physics and Biology",
+        "Chemistry and Biology",
+        "Physics and Chemistry",
+        "Medicine and Chemistry"
+      ],
+      "answer": "Physics and Chemistry",
+      "difficulty": "medium",
+      "explanation": "Marie Curie won the Nobel Prize in Physics in 1903 (shared with Pierre Curie and Henri Becquerel) and the Nobel Prize in Chemistry in 1911."
+    },
+    {
+      "question": "What element did Marie Curie name after her homeland?",
+      "options": [
+        "Francium",
+        "Polonium",
+        "Curium",
+        "Radium"
+      ],
+      "answer": "Polonium",
+      "difficulty": "easy",
+      "explanation": "Marie Curie named the element polonium after Poland, her native country."
+    },
+    {
+      "question": "Who was Marie Curie's husband and research partner?",
+      "options": [
+        "Henri Becquerel",
+        "Paul Langevin",
+        "Pierre Curie",
+        "Albert Einstein"
+      ],
+      "answer": "Pierre Curie",
+      "difficulty": "easy",
+      "explanation": "Pierre Curie was both Marie's husband and her scientific collaborator in the research on radioactivity."
+    },
+    {
+      "question": "What did Marie Curie develop during World War I to help wounded soldiers?",
+      "options": [
+        "Antibiotics",
+        "Mobile X-ray units",
+        "Surgical techniques",
+        "Blood transfusion methods"
+      ],
+      "answer": "Mobile X-ray units",
+      "difficulty": "hard",
+      "explanation": "During World War I, Curie developed mobile radiography units, nicknamed 'petites Curies,' to provide X-ray services to field hospitals."
+    },
+    {
+      "question": "What phenomenon was Marie Curie studying that led to her discoveries?",
+      "options": [
+        "Magnetism",
+        "Radioactivity",
+        "Electricity",
+        "Thermodynamics"
+      ],
+      "answer": "Radioactivity",
+      "difficulty": "easy",
+      "explanation": "Marie Curie's pioneering research focused on radioactivity, a term she coined herself."
+    },
+    {
+      "question": "Where did Marie Curie conduct most of her groundbreaking research?",
+      "options": [
+        "Cambridge University",
+        "University of Paris",
+        "Warsaw University",
+        "Oxford University"
+      ],
+      "answer": "University of Paris",
+      "difficulty": "medium",
+      "explanation": "Marie Curie conducted her research at the University of Paris (Sorbonne), where she also became the first female professor."
+    }
+  ],
+  "related_topics": [
+    "Radioactivity",
+    "Nobel Prize",
+    "Pierre Curie",
+    "Radium",
+    "Polonium",
+    "X-ray technology",
+    "Women in science",
+    "Nuclear physics",
+    "Henri Becquerel"
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": 1,
+  "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+  "title": "Alan Turing",
+  "summary": "Alan Turing was a British mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist. He was highly influential in the development of theoretical computer science, providing a formalisation of the concepts of algorithm and computation with the Turing machine, which can be considered a model of a general-purpose computer.",
+  "key_entities": {
+    "people": [
+      "Alan Turing",
+      "Alonzo Church",
+      "John von Neumann",
+      "Christopher Morcom"
+    ],
+    "organizations": [
+      "University of Cambridge",
+      "Bletchley Park",
+      "Government Code and Cypher School",
+      "National Physical Laboratory"
+    ],
+    "locations": [
+      "United Kingdom",
+      "Bletchley Park",
+      "Manchester",
+      "Princeton"
+    ]
+  },
+  "sections": [
+    "Early life and education",
+    "Career and research",
+    "Cryptanalysis",
+    "World War II",
+    "Bombe",
+    "Pattern of the Enigma",
+    "Turingery",
+    "ACE and the NPL",
+    "Stored-program computer",
+    "Manchester computers",
+    "Turing test",
+    "Pattern formation and mathematical biology",
+    "Persecution for homosexuality",
+    "Death",
+    "Legacy"
+  ],
+  "quiz": [
+    {
+      "question": "Where did Alan Turing complete his undergraduate studies?",
+      "options": [
+        "Harvard University",
+        "Cambridge University",
+        "Oxford University",
+        "Princeton University"
+      ],
+      "answer": "Cambridge University",
+      "difficulty": "easy",
+      "explanation": "Alan Turing studied mathematics at King's College, Cambridge, where he was awarded first-class honours in 1934."
+    },
+    {
+      "question": "What was Alan Turing's main contribution during World War II?",
+      "options": [
+        "Developing atomic weapons",
+        "Breaking the Enigma code",
+        "Inventing radar technology",
+        "Designing jet engines"
+      ],
+      "answer": "Breaking the Enigma code",
+      "difficulty": "medium",
+      "explanation": "Turing played a crucial role in breaking German ciphers during World War II at Bletchley Park, particularly working on the Enigma machine."
+    },
+    {
+      "question": "What is the name of the theoretical machine Turing invented that is fundamental to computer science?",
+      "options": [
+        "Turing Engine",
+        "Turing Processor",
+        "Turing Machine",
+        "Turing Computer"
+      ],
+      "answer": "Turing Machine",
+      "difficulty": "medium",
+      "explanation": "The Turing machine is a mathematical model of computation that defines an abstract machine, which manipulates symbols on a strip of tape according to a table of rules."
+    },
+    {
+      "question": "What test did Turing propose to determine if a machine can exhibit intelligent behavior?",
+      "options": [
+        "Intelligence Quotient Test",
+        "Turing Test",
+        "Machine Learning Test",
+        "Artificial Intelligence Benchmark"
+      ],
+      "answer": "Turing Test",
+      "difficulty": "easy",
+      "explanation": "The Turing Test, proposed in 1950, is a test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human."
+    },
+    {
+      "question": "At which organization did Turing work on the ACE (Automatic Computing Engine)?",
+      "options": [
+        "Cambridge University",
+        "Bletchley Park",
+        "National Physical Laboratory",
+        "Manchester University"
+      ],
+      "answer": "National Physical Laboratory",
+      "difficulty": "hard",
+      "explanation": "After World War II, Turing worked at the National Physical Laboratory, where he designed the ACE, one of the first designs for a stored-program computer."
+    },
+    {
+      "question": "What field of study did Turing contribute to in his later years, involving patterns in nature?",
+      "options": [
+        "Quantum mechanics",
+        "Mathematical biology",
+        "Particle physics",
+        "Astronomy"
+      ],
+      "answer": "Mathematical biology",
+      "difficulty": "hard",
+      "explanation": "Turing turned to mathematical biology and published 'The Chemical Basis of Morphogenesis' in 1952, which described how patterns in nature, such as stripes and spirals, could arise naturally from a homogeneous state."
+    },
+    {
+      "question": "Why was Alan Turing prosecuted in 1952?",
+      "options": [
+        "Espionage",
+        "Theft of government secrets",
+        "Homosexual acts",
+        "Tax evasion"
+      ],
+      "answer": "Homosexual acts",
+      "difficulty": "medium",
+      "explanation": "Turing was prosecuted for homosexual acts, which were illegal in the United Kingdom at that time. He was convicted in 1952."
+    },
+    {
+      "question": "What was the name of the electromechanical device Turing helped develop to break Enigma codes?",
+      "options": [
+        "Colossus",
+        "Bombe",
+        "ENIAC",
+        "Mark I"
+      ],
+      "answer": "Bombe",
+      "difficulty": "hard",
+      "explanation": "The Bombe was an electromechanical device used by British cryptologists to help decipher German Enigma-machine-encrypted messages during World War II."
+    }
+  ],
+  "related_topics": [
+    "Turing machine",
+    "Cryptography",
+    "Enigma machine",
+    "Computer science history",
+    "Artificial intelligence",
+    "Bletchley Park",
+    "World War II codebreaking",
+    "Computability theory",
+    "Church-Turing thesis",
+    "Manchester Mark 1"
+  ]
+}
